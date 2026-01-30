@@ -1,0 +1,8 @@
+{
+  "name": "NexusFlow SaaS Suite",
+  "description": "A comprehensive enterprise SaaS platform including dashboard, user management, project tracking, and account settings with a clean emerald aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
